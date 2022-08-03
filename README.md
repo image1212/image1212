@@ -2,7 +2,7 @@
 ## :smiley_cat: IMG
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimage1212&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFF0&title=GitHub&edge_flat=false)
-<img src="https://img.shields.io/badge/이미지%231234-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/이미지%230001-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=image1212&theme=dark)
 
